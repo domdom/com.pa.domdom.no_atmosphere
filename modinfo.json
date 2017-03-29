@@ -1,0 +1,19 @@
+{
+    "context": "client",
+    "identifier": "com.pa.domdom.no_atmosphere",
+    "signature": " ",
+    "display_name": "No Atmosphere",
+    "description": "Makes the planet atmosphere invisible.",
+    "author": "dom314",
+    "forum": "https://forums.uberent.com/threads/rel-client-darker-sky.71298/#post-1139882",
+    "icon": "http://i.imgur.com/JTUDbBR.png",
+    "version": "1.0.0",
+    "category": [
+        "titans",
+        "classic",
+        "effects",
+        "shaders"
+    ],
+    "build": "99377",
+    "date": "2017/03/29"
+}
